@@ -5,7 +5,7 @@
     "email": "support@intelligentvoice.com",
     "url": "https://www.intelligentvoice.com/pci/"
   },
-  "version": "2.10",
+  "version": "2.10.1",
   "defaultLocale": "en",
   "marketingOnly": false,
   "private": false,
